@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fc92157-904a-4ab5-924b-28d059171795" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/src/main/java/love2code/mathUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/src/test/java/love2code/mathUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/classes/love2code/mathUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/surefire-reports/TEST-love2code.mathUtilsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/surefire-reports/love2code.mathUtilsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitTest-03-@BeforEach/target/test-classes/love2code/mathUtilsTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DqQy73BTAkhpeFtT7oAkQVTwjK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/hackyourfuture/Desktop/JUnit test/JUnitTest/JunitTest-06-@Disable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="love2code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.mathUtilsTest (1)">
+    <configuration name="mathUtilsTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest-04-@displayName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="love2code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="love2code" />
+      <option name="MAIN_CLASS_NAME" value="love2code.mathUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mathUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest-02-testDriven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="love2code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="love2code" />
+      <option name="MAIN_CLASS_NAME" value="love2code.mathUtilsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mathUtilsTest.computeCircleArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitTest-02-testDriven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="love2code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="love2code" />
+      <option name="MAIN_CLASS_NAME" value="love2code.mathUtilsTest" />
+      <option name="METHOD_NAME" value="computeCircleArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTest1 [clean]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JUnitTest1 [surefire:test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="surefire:test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JUnitTest1 [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.mathUtilsTest (1)" />
+      <item itemvalue="JUnit.mathUtilsTest.computeCircleArea" />
+      <item itemvalue="JUnit.mathUtilsTest" />
+      <item itemvalue="Maven.JUnitTest1 [test]" />
+      <item itemvalue="Maven.JUnitTest1 [surefire:test]" />
+      <item itemvalue="Maven.JUnitTest1 [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.mathUtilsTest (1)" />
+        <item itemvalue="JUnit.mathUtilsTest" />
+        <item itemvalue="JUnit.mathUtilsTest.computeCircleArea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc92157-904a-4ab5-924b-28d059171795" name="Changes" comment="" />
+      <created>1661424390711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661424390711</updated>
+      <workItem from="1661424393399" duration="84000" />
+      <workItem from="1661424926288" duration="159000" />
+      <workItem from="1661425781061" duration="2705000" />
+      <workItem from="1661428764741" duration="33000" />
+      <workItem from="1661428964864" duration="4950000" />
+      <workItem from="1661464872303" duration="440000" />
+      <workItem from="1661465937134" duration="1014000" />
+      <workItem from="1661467479714" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
