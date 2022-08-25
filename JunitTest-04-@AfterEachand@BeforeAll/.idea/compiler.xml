@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JunitTest-02-testDriven" />
+        <module name="JunitTest-04-@AfterEachand@BeforeAll" />
+        <module name="JUnitTest1" />
+        <module name="JUnittest1" />
+        <module name="JunitTest-03-@BeforEach" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
